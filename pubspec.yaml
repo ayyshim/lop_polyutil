@@ -1,6 +1,6 @@
 name: lop_polyutil
 description: Location on path method implementation of google map PolyUtil
-version: 0.0.1
+version: 0.0.2
 author: Ashim Upadhaya
 homepage: https://github.com/ayyshim/lop_polyutil
 
